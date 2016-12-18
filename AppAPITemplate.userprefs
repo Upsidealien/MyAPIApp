@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="iOS/AppAPITemplate.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppAPITemplate/InfoPage.cs">
+    <Files>
+      <File FileName="AppAPITemplate/FirstMenu.cs" Line="91" Column="4" />
+      <File FileName="AppAPITemplate/SecondMenu.cs" Line="73" Column="4" />
+      <File FileName="AppAPITemplate/InfoPage.cs" Line="158" Column="40" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="AppAPITemplate/FirstMenu.cs" line="60" offsetX="521" offsetY="1066" expression="item.IEnumerator.[0].Value.Value" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.AppAPITemplate.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AFD3E5E1-C3AF-4164-B016-9CE6A4918365" />
+</Properties>
